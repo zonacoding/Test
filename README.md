@@ -5,7 +5,7 @@ A simple Streamlit app to play YouTube videos by entering the URL or selecting f
 ## Features
 
 - Play videos by URL
-- List and play top 10 most viewed videos (requires YouTube API key)
+- List and play top 10 most popular videos in Korea (requires YouTube API key)
 
 ## Setup YouTube API
 
